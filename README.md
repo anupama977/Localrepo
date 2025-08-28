@@ -1,3 +1,4 @@
+Hello Seniors! I am Anupama Pandey From Btech Cse core, My thought process during the whole test is written below as follows :
 Basically for this test  after giving the mcq round i was reading the code given to decode and fix errors i don't know c++ i only know little c, java and python.
 Since i know a bit of c i was able to understand some of the texts and know what the code meant 
 there was an issue with the hexstring area and the copying of iTOW,lon and lat in same buffer 
